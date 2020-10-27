@@ -1,0 +1,11 @@
+{
+  "name": "txt_a_json",
+  "version": "1.0.0",
+  "description": "Dado un txt como input, sale un txt en formato json",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Amed Tadeo - Lulkin Nicolás",
+  "license": "ISC"
+}

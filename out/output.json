@@ -1,0 +1,242 @@
+{
+    "Tiendas": [
+        {
+            "CodigoERP": "50",
+            "Nombre": "LA PLATA",
+            "Codigo": "50",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "52",
+            "Nombre": "PATIO OLMOS",
+            "Codigo": "52",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "53",
+            "Nombre": "UNICENTER",
+            "Codigo": "53",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "54",
+            "Nombre": "PILAR",
+            "Codigo": "54",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "55",
+            "Nombre": "PASEO ALCORTA",
+            "Codigo": "55",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "56",
+            "Nombre": "ALTO ROSARIO",
+            "Codigo": "56",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "57",
+            "Nombre": "PORTAL ROSARIO",
+            "Codigo": "57",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "58",
+            "Nombre": "SOLAR DE LA ABADIA",
+            "Codigo": "58",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "61",
+            "Nombre": "CABALLITO",
+            "Codigo": "61",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "62",
+            "Nombre": "PACIFICO_2",
+            "Codigo": "62",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "65",
+            "Nombre": "BULLRICH",
+            "Codigo": "65",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "66",
+            "Nombre": "ABASTO_GAX",
+            "Codigo": "66",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "67",
+            "Nombre": "CASA DEL ANGEL",
+            "Codigo": "67",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "68",
+            "Nombre": "OUTLET-GURRUCHAGA",
+            "Codigo": "68",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "69",
+            "Nombre": "PALERMO_GAX",
+            "Codigo": "69",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "70",
+            "Nombre": "DEVOTO_GAX",
+            "Codigo": "70",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "75",
+            "Nombre": "LAVALLE",
+            "Codigo": "75",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "76",
+            "Nombre": "ALTO AVELLANEDA",
+            "Codigo": "76",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "77",
+            "Nombre": "PLAZA OESTE",
+            "Codigo": "77",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "79",
+            "Nombre": "DOT_BAIRES",
+            "Codigo": "79",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "80",
+            "Nombre": "PORTAL PALERMO",
+            "Codigo": "80",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "81",
+            "Nombre": "TORTUGAS",
+            "Codigo": "81",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "82",
+            "Nombre": "SOLEIL",
+            "Codigo": "82",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "84",
+            "Nombre": "RECOLETA",
+            "Codigo": "84",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "86",
+            "Nombre": "SAN ISIDRO GAX",
+            "Codigo": "86",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "88",
+            "Nombre": "AV_SANTA_FE_2",
+            "Codigo": "88",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "89",
+            "Nombre": "LOS ARCOS",
+            "Codigo": "89",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "90",
+            "Nombre": "LUXURY PALACE",
+            "Codigo": "90",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "91",
+            "Nombre": "NORDELTA",
+            "Codigo": "91",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "92",
+            "Nombre": "SOHO",
+            "Codigo": "92",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "93",
+            "Nombre": "CORDOBA SHOPPING",
+            "Codigo": "93",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "94",
+            "Nombre": "JOCKEY",
+            "Codigo": "94",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "95",
+            "Nombre": "LA RIVERA OUTLET",
+            "Codigo": "95",
+            "Direccion": "",
+            "Activo": true
+        },
+        {
+            "CodigoERP": "96",
+            "Nombre": "NUEVO CENTRO",
+            "Codigo": "96",
+            "Direccion": "",
+            "Activo": true
+        }
+    ]
+}
